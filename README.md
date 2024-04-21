@@ -4,6 +4,7 @@ Libraries used:
 
 Pandas
 Numpy
-SQLAlchemy
+
+
 
 
